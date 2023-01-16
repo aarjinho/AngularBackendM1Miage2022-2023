@@ -1,7 +1,7 @@
 # AngularBackendM1Miage2022-2023
 # Commençons
 # 1-Clonez le dépôt sur votre machine locale :
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/aarjinho/AngularBackendM1Miage2022-2023.git
 # 2-Naviguez vers le répertoire racine du projet :
 cd AngularFrontendM1Miage2022-2023
 # 3-Installer les paquets nécessaires :
