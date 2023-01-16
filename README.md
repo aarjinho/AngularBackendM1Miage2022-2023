@@ -18,4 +18,3 @@ Si vous devez apporter des modifications au serveur, vous pouvez modifier le fic
 Vous devez avoir Node.js et npm installés sur votre machine pour exécuter ce projet. Si vous ne les avez pas, vous pouvez les télécharger sur le site officiel : https://nodejs.org/en/download/.
 
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
